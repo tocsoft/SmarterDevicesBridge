@@ -1,0 +1,19 @@
+{
+  "name": "smartercoffee.js",
+  "version": "1.0.0",
+  "description": "A nodejs wrapper for the Smarter Coffee",
+  "main": "index.js",
+  "author": {
+    "name": "Peter Major",
+    "email": "peter@petermajor.co.uk"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "1.14.x",
+    "debug": "2.2.x",
+    "express": "4.13.x",
+    "lodash": "3.10.x",
+    "pad": "^1.0.0"
+  },
+  "devDependencies": {}
+}
